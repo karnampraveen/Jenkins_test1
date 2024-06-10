@@ -1,1 +1,1 @@
-echo "Hello from second script!"
+echo "Hello from second script! Didnt work in Run 4"
